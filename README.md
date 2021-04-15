@@ -1,3 +1,3 @@
-! wget https://raw.githubusercontent.com/yonsmomo/rdp/main/RDP.sh &> /dev/null 
-! chmod +x RDP.sh 
-! ./RDP.sh
+! wget https://raw.githubusercontent.com/yonsmomo/rdp/main/RDPx.sh &> /dev/null 
+! chmod +x RDPx.sh 
+! ./RDPx.sh
